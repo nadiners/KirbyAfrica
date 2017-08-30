@@ -1,0 +1,45 @@
+Title: Home
+
+----
+
+Intro: הגלריה ללימודי אפריקה היא חלל תצוגה ייחודי, המתמקד בהצגת ובחינת האמנות האפריקאית. הגלריה היא ארגון ללא כוונות רווח, השואף לבחון את האמנות האפריקאית בהקשר מודרני.
+
+----
+
+Text: 
+
+----
+
+Sectiontitle: הווה
+
+----
+
+Headerimg: dotsdotssmall.jpg
+
+----
+
+Spaceimg: galleryspace.jpg
+
+----
+
+Seeallexhib: ראה את כל התערוכות
+
+----
+
+Seallevents: ראה את כל אירועים
+
+----
+
+Seallcata: ראה את כל הקטלוגים
+
+----
+
+Titleseeallexhib: תערוכות
+
+----
+
+Titleseallevents: אירועים
+
+----
+
+Titleseallcata: קטלוגים

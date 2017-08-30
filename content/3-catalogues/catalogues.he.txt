@@ -1,0 +1,57 @@
+Title: קטלוגים
+
+----
+
+Text: 
+
+Some text about the catalogues, how there is one for each exhibition and so on and so on. 
+Catalogues of all our exhibitions are available at the gallery.
+
+----
+
+Catalogues: 
+
+- 
+  title: In My Shade
+  year: "2016"
+  cover: 09-in-my-shade.jpg
+  pdf: 09-in-my-shade.pdf
+- 
+  title: The Kinshasa Times
+  year: "2015"
+  cover: 7-kinshasa-times.jpg
+  pdf: 7-kinshasa-times.pdf
+- 
+  title: Lava Almas
+  year: "2014"
+  cover: 6-toyboy-pages.jpg
+  pdf: 6-toyboy-pages.pdf
+- 
+  title: The Congo River
+  year: "2014"
+  cover: 5-congo-river.jpg
+  pdf: 5-congo-river.pdf
+- 
+  title: Change and Exchange
+  year: "2014"
+  cover: 4-change-exchange.jpg
+  pdf: 4-change-exchange.pdf
+- 
+  title: Glocal
+  year: "2013"
+  cover: 3-glocal.jpg
+  pdf: glocal.pdf
+- 
+  title: The Mask Between Us
+  year: "2013"
+  cover: 2-masks.jpg
+  pdf: masks.pdf
+- 
+  title: Between Art and Artefact
+  year: "2012"
+  cover: 1-between-art-and-artefact.jpg
+  pdf: between-art-and-artefact.pdf
+
+----
+
+Coverimg: catalogues.jpg

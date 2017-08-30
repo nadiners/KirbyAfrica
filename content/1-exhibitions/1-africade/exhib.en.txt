@@ -1,0 +1,61 @@
+Reveal: 
+
+----
+
+Title: Africade
+
+----
+
+Date: 29 July 2017
+
+----
+
+Featimg: rangi.png
+
+----
+
+Featxzib: 1
+
+----
+
+Excerpt: Since ancient times, art has maintained complex interrelations with both society and technology. Nowadays, when people spend most of their time attached to the virtual world, it is only natural for the arts to move along, to be state of the art.
+
+----
+
+Aboutexhib: 
+
+Nowadays, when people spend most of their time attached to the virtual world, it is only natural for the arts to move along, to be state of the art.
+As the video games in Africade demonstrate, the digital-art medium embodies all traditional art forms: sketching, painting, sculpturing, music and even narrative. But whereas in the past, the total sense of experience could be captured only by two-dimensional images, our rapidly changing world, allows viwers to float away, weightlessly, into imaginary worlds, as the digital-virtual medium promises to emerge as the most powerfully expressive and engaging art form.
+In Africa, a growing number of game developers have been pioneering the use of video games as an artistic medium. For Africade, we selected seven games from Nigeria, Cameroon, Algeria, Morocco and South Africa, in order to give a taste of this flourishing scene. The games on display operate in various media – board, mobile, and computer games. They encapsulate a diversity of inspirations and influences and include elements from local African aesthetics and pan-African myths, as well as Occidental and Oriental design traditions.
+Will the digital art medium emerge as the most iconic of our time? Time will tell, but in the meanwhile, the African Studies Gallery is joining many other contemporary art museums worldwide in presenting this technology, with a particular focus on Africa. Thus, while Africade is designed to demonstrate the artistic potential of the gaming world, it nonetheless invites the viewers to give in to the technological temptation and satisfy our desire to escape to another dimension.
+
+----
+
+Participants: 
+
+Various Artists 
+Aicha El Beloui
+
+----
+
+Catalogue: 
+
+----
+
+Related: 
+
+----
+
+Relatedtext: 
+
+----
+
+Sortable: module-text-1gwcc7m, module-gallery-kese86, module.gallery-1p6i1f6
+
+----
+
+Colartist: artists
+
+----
+
+Colcatalogue: exhibition's catalogue

@@ -1,0 +1,117 @@
+title: Event
+
+files:
+  size: 12000000
+  sortable: true
+
+pages:
+  template:
+  build:
+    - title: _modules
+      uid: modules
+      template: modules
+    - title: headSlider
+      uid: mainslider
+      template: mainslider
+
+fields:
+  reveal: reveal
+
+  title:
+    label: Exhib title
+    type:  text
+    width: 3/4
+  
+  date:
+    label: Date
+    type: text
+    width: 1/4 
+
+  aboutexhib:
+    label: About the exhibition
+    type:  textarea
+
+  featimg:
+    label: Feat img
+    type: image
+    width: 1/5
+
+  featxzib:
+    label: Feat exhib
+    type: checkbox
+    text: Check to feat post
+    width: 1/5
+    
+  excerpt:
+    label: Excerpt
+    type:  textarea
+    width: 3/5
+  
+  colartist:
+    label: Artist col title
+    type: text
+    width: 1/2
+
+  participants:
+    label: Artistes / participants
+    type: textarea
+    width: 1/2
+
+  colcatalogue:
+    label: Catalogue col title
+    type: text
+    width: 1/2
+    
+  catalogue:
+    label: Catalogue
+    type: structure
+    style: table
+    width: 1/2
+    fields:
+      cover:
+        label: cover
+        type: select
+        options: query
+        query:
+          page: catalogues
+          fetch: images
+          value: '{{uri}}'
+          text: '{{filename}}'
+      pdf:
+        label: pdf
+        type: select
+        options: query
+        query:
+          page: catalogues
+          fetch: documents
+          value: '{{uri}}'
+          text: '{{filename}}'
+          flip: true
+  
+  related:
+    label: Related articles/news
+    type: structure
+    style: table
+    fields:
+      link: 
+        label: Link
+        type: url
+      linktitle: 
+        label: Link name
+        type: text
+  relatedtext:
+      label:
+      type: markdown
+
+  sortable:
+    label: Modules
+    type: sortable
+
+    layout:  base
+    variant: null
+
+    parent: modules
+    prefix: null
+
+    options:
+      limit: false

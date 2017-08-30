@@ -1,0 +1,53 @@
+title: Site
+
+pages: default
+
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 1/3
+
+  author:
+    label: Author
+    type:  text
+    width: 1/3
+
+  copyright:
+    label: Copyright
+    type:  textarea
+    width: 1/3
+
+  description:
+    label: Description
+    type:  textarea
+    
+  footer:
+    label: Footer infos
+    type: headline
+    numbered: false
+
+  adresse:
+    label: adresse
+    type: textarea
+    width: 1/2
+  
+  opening:
+    label: opening hours
+    type: textarea
+    width: 1/2
+
+  curator:
+    label: curator
+    type: textarea
+    width: 1/2
+
+  contact: 
+    label: contact
+    type: textarea
+    width: 1/2
+
+  footsubscribe: 
+    label: Subscribe
+    type: text
+    width: 1/2

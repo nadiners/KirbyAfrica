@@ -1,0 +1,16 @@
+title: Default
+
+pages:
+  template:
+  build:
+    - title: _modules
+      uid: modules
+      template: modules
+
+  title:
+    label: Title
+    type:  text
+
+  text:
+    label: Text
+    type:  textarea

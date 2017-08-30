@@ -1,0 +1,17 @@
+Title: TItre de l'image
+
+----
+
+Caption: épingles
+
+----
+
+Author: John Doe
+
+----
+
+Pinfo: needles - dimension variable - 2016
+
+----
+
+Sort: 1

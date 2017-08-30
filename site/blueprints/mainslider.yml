@@ -1,0 +1,40 @@
+title: Main slider
+
+pages: false
+
+options:
+  preview: parent  
+  status: false
+  template: false
+  delete: false
+  url: false
+
+files: 
+  sortable: true
+  fields:
+    title:
+      label: Image title
+      type: text
+    author:
+      label: Author
+      type: text
+    pinfo:
+      label: Picture info
+      type: text
+    caption:
+      label: Caption
+      type: textarea
+
+fields:
+  info:
+    label: Gallery page instructions
+    type: info
+    text: >
+      To add images to the slider : <br>
+      Drag and drop the images here or use this button
+      <a data-upload="" href="#upload">
+        <i class="icon icon-left fa fa-plus-circle"></i><span>Add</span>
+      </a> <br>   *also available in the files left panel.* <br /><hr>
+      To sort images and add captions use the **<a title="Edit" href="http://127.0.0.1/AfricanStudies/panel/pages/exhibitions/new-exhib/main-slider/files">
+        <i class="icon icon-left fa fa-pencil"></i><span>Edit</span>
+      </a>** button. <br /><hr>

@@ -1,0 +1,11 @@
+Title: Gallery module
+
+----
+
+Slideshow: 
+
+- 15.11.16-ain-sbaa-kybd3-copy.jpg
+- les-choses-d-avant-le-grand-nord-1-copy.jpg
+- les-choses-d-avant-le-grand-nord-2-copy.jpg
+- s_inking-copy.jpg
+- loadingbook.gif

@@ -1,0 +1,65 @@
+Title: Lava Almas
+
+----
+
+Date: 2016-08-02
+
+----
+
+Text: This exhibition is of urban art, produced by self-taught artists, mainly from Kinshasa. During the past decade both museums and art markets have shown a growing interest in contemporary African art.
+
+----
+
+Participants: Adalberto Ferreira a.k.a. "Toy Boy"
+
+----
+
+Aboutexhib: 
+
+**Adalberto Ferreira, widely known by his alias, Toy Boy, lives and works in Luanda, Angola**
+
+Born in 1976, two years after the bloody independence war that liberated Angola from Portuguese colonial rule, Toy Boy's life story is emblematic of his homeland’s recent history. He grew up in the shadow of the protracted civil war (1976-2002) that transformed Angola and led to an intensified urbanization process. Like many of the capital’s inhabitants, Toy Boy was left displaced in his own country, struggling with life in a city that lacks basic infrastructure and suffers rampant poverty and crime, combined with fabulous opulence of a tiny minority. Since the age of twelve, Toy Boy has been living in Luanda’s slums, a backdrop that provides constant materials for his work.
+
+Although Toy Boy's subject matters are deeply grounded in Angola’s past and presence, his artistic style owes little to local traditions. He borrows from Western styles and techniques, with them he does as he pleases. At times he opts for pop art or comics, other times, he uses collages or ready-mades. His economically motivated use of recycled materials such as jute, linoleum or cotton is not typical of local artists, but rather connects his work to the here-and-now.  
+
+Those who are familiar with contemporary Angolan society may recognize a clear and well-articulated message in Toy Boy’s work. Other can benefit from the opportunity of giving these works a relevant interpretation.
+
+----
+
+Catalogue: 
+
+- 
+  cover: catalogues/6-toyboy-pages.jpg
+  pdf: catalogues/6-toyboy-pages.pdf
+
+----
+
+Related: 
+
+----
+
+Featimg: 
+
+----
+
+Featxzib: 0
+
+----
+
+Excerpt: 
+
+----
+
+Relatedtext: 
+
+----
+
+Sortable: 
+
+----
+
+Colartist: artist
+
+----
+
+Colcatalogue: 

@@ -1,0 +1,54 @@
+Reveal: 
+
+----
+
+Title: Change / Exchange: A View on African Art Today
+
+----
+
+Date: September 2013 – March 2014
+
+----
+
+Aboutexhib: 
+
+A variety of trends and influences shape the cultural and artistic practices of Africans today. One such trend is the adaptation of traditional artefacts to reflect elements of contemporary life. Ritual objects are re-imagined to mirror present-day realities, resulting in a surprising blend of old customs and new social influences. 
+Contemporary art is another trend evident mainly in the African metropolis. Artists that were educated in Western schools under Western patronage aim their work towards Western art markets and a small emerging African middle class. Many artists react to the socio-political realities around them, using photography, video, and collage. They use art to protest against social, political or religious injustices. 
+The souvenir market is another exciting arena of artistic activity in Africa, a recent development with a thriving economy of its own. Most souvenirs are inspired by traditional artistic or cultural practices and many are a combination of different sources and cultures. They are created for foreign visitors and as such they are eye-catching and very innovative. 
+Change / Exchange: A View on African Art Today features the works of Angolan artists who have recently visited Israel. Some of the works are the fruit of a student workshop, held at the Department of Multidisciplinary Art at Shenkar College.
+
+----
+
+Featimg: screen-shot-2017-08-17-at-10.48.35.png
+
+----
+
+Featxzib: 0
+
+----
+
+Excerpt: 
+
+----
+
+Participants: 
+
+----
+
+Catalogue: 
+
+- 
+  cover: catalogues/4-change-exchange.jpg
+  pdf: catalogues/4-change-exchange.pdf
+
+----
+
+Related: 
+
+----
+
+Relatedtext: 
+
+----
+
+Sortable: 

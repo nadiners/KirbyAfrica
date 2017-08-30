@@ -1,0 +1,25 @@
+title: About us
+
+pages: false
+
+options:
+  status: false    
+  url: false
+  delete: false
+
+files: true
+
+options: 
+  template: false  
+  status: false  
+
+icon : info
+
+fields:
+  title:
+    label: Title
+    type: title
+
+  text:
+    label: Text
+    type: textarea

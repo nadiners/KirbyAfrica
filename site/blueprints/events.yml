@@ -1,0 +1,22 @@
+title: Events
+
+files: false
+
+pages:
+  template: event
+
+options: 
+  template: false  
+  status: false  
+  url: false  
+
+icon: calendar
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  subtitle:
+    label: subtile or section title
+    type: text

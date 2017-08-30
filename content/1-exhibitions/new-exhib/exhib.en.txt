@@ -1,0 +1,90 @@
+Title: test exhib
+
+----
+
+Excerpt: This exhibition is of urban art, produced by self-taught artists, mainly from Kinshasa. During the past decade both museums and art markets have shown a growing interest in contemporary African art. But what does ‘contemporary African art’ mean in this context ?...
+
+----
+
+Aboutexhib: 
+
+Some text about the exhibition : 
+This exhibition is of urban art, produced by self-taught artists, mainly from Kinshasa. During the past decade both museums and art markets have shown a growing interest in contemporary African art.
+
+----
+
+Participants: 
+
+- Berry Matundu
+- Bodo Amani
+- Bodo Père
+- Boduka Claude
+- Bosna
+- Cheri Benga
+- Cheri Cherin
+- Cheri Samba
+- Gedeon Ndonda
+- Herge Makuzayi
+- Jc Lofenia
+- Jimmy Cherin
+
+----
+
+Date: August to December 2016
+
+----
+
+Sortable: text-mod-1, white-house, a-gallery-mod, module-text-1q6rgtf
+
+----
+
+Gallery: 
+
+- 
+  gallery: prixelysee.jpg
+  caption: Some caption
+
+----
+
+Catalogue: 
+
+- 
+  pdf: catalogues/to-happen.pdf
+  cover: catalogues/kinshasa-catalogue.png
+- 
+  cover: catalogues/3-glocal.jpg
+  pdf: catalogues/between-art-and-artefact.pdf
+
+----
+
+Related: 
+
+- 
+  link: >
+    http://africanstudiesgallery.org/downloads/Masksdesign.pdf
+  linktitle: PDF Article
+- 
+  link: >
+    https://www.haaretz.co.il/gallery/art/1.1626249
+  linktitle: Article
+- 
+  link: https://vimeo.com/144776926
+  linktitle: Exhibition video
+
+----
+
+Relatedtext: 
+
+(image: prixelysee.jpg link: http://africanstudiesgallery.org )
+
+This is the first exhibition of the Moroccan artist Aicha El Beloui in Israel. In a subtle, minimalist and pointed approach, with poignant and critical humor, she sketches the relations formed between the civilian and the urban space she occupies. Her feminist gaze poses a political, social and cultural perspective on Islamic society in Morocco, with emphasis on her hometown Casablanca.
+
+(vimeo: http://vimeo.com/144776926 width:100%  height:400px)
+
+----
+
+Featimg: prixelysee.jpg
+
+----
+
+Featxzib: 0

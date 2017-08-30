@@ -1,0 +1,22 @@
+title: Exhibitions
+
+files: false
+
+pages:
+  template: exhib
+
+options: 
+  template: false  
+  status: false  
+  url: false  
+
+icon: picture-o
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  subtitle:
+    label: subtile or section title
+    type: text

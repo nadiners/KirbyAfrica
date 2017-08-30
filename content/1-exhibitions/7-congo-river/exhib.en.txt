@@ -1,0 +1,61 @@
+Reveal: 
+
+----
+
+Title: The Congo River
+
+----
+
+Date: April – October 2014
+
+----
+
+Aboutexhib: 
+
+The Congo River flows through ten African countries. It is Africa’s most powerful river and the second most voluminous river in the world. It was made famous by the adventures of Livingstone and Stanley and through book titles such as The Heart of Darkness or more recently, Blood River. The river and its surrounding rainforest have long been known as a land of brutality and violence; from the days of the Arab slave trade, through the long history of tribal warfare, to its brutal colonization, harsh dictatorship/kleptocracy and present reality of ethnic violence, famine and epidemics that take place in some of the regions.
+
+The Congo River is less known for its important role in the history of Central Africa. The works in the exhibition reveal a different (hi)story of people that establish powerful and enlightened kingdoms. Each kingdom or group had its own notable identity, yet despite their differences, they had cultural ties that bound them, articulated in a common language. In spite of being spread over a vast area and separated by great swathes of thick jungle forest, they shared similar social structures and worldviews, addressing to natural spirits and their ancestors and practicing initiation and healing rituals. The Congo River tells the story of a glorious past that leaves the viewers with hopes for a better future.
+
+----
+
+Featimg: _ege6748.jpg
+
+----
+
+Featxzib: 0
+
+----
+
+Excerpt: 
+
+----
+
+Participants: 
+
+----
+
+Catalogue: 
+
+- 
+  cover: catalogues/5-congo-river.jpg
+  pdf: catalogues/5-congo-river.pdf
+
+----
+
+Related: 
+
+----
+
+Relatedtext: 
+
+----
+
+Sortable: 
+
+----
+
+Colartist: 
+
+----
+
+Colcatalogue: 

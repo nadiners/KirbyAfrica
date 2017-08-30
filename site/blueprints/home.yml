@@ -1,0 +1,68 @@
+title: Home
+
+pages: false
+files: true
+
+options:
+  template: false
+  status: false
+  url: false
+
+icon: home
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  headerimg:
+    label: Header image
+    type:        quickselect
+    options:     images
+    placeholder: Choose an image...
+    width: 1/2
+
+  spaceimg:
+    label: Space image
+    type:        quickselect
+    options:     images
+    placeholder: Choose an image...
+    width: 1/2
+    
+  intro:
+    label: Intro
+    type:  textarea
+
+  sectiontitle:
+    label: Section title
+    type: text
+
+  titleseeallexhib:
+    label: Separator title
+    type: text
+    width: 1/2
+
+  seeallexhib:
+    label: See all exhibition
+    type: text
+    width: 1/2
+
+  titleseallevents:
+    label: Separator title
+    type: text
+    width: 1/2
+
+  seallevents:
+    label: See all events
+    type: text
+    width: 1/2
+
+  titleseallcata:
+    label: Separator title
+    type: text
+    width: 1/2
+
+  seallcata:
+    label: See all catalogues
+    type: text
+    width: 1/2

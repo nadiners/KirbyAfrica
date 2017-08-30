@@ -1,0 +1,63 @@
+Reveal: 
+
+----
+
+Title: Glocal: Global Localization
+
+----
+
+Date: April – September 2013
+
+----
+
+Aboutexhib: 
+
+Wax printed cloth and machine-printed imitations have become one of the most widely distributed forms of textiles today. They are produced and worn in almost every country in sub-Saharan Africa, and are entwined with local social and political life to the extent that they became one of the most familiar symbols of the continent. But perhaps what seems as a strong local identity is in fact a fraction of a larger whole? Is local identity part of a Global Village? Can designs migrate from one continent to another? Is there such a thing as a universal aesthetic common denominator?
+
+ A closer examination of the history of design and manufacturing of African fabrics reveals a global story of trade relations. European textiles served as a major trade commodity in West Africa since at least the 15th century. Throughout the centuries, textiles were exchanged for mainly gold and slaves. Moreover, European textile entrepreneurs took special interest in satisfying the aesthetic and practical demands of their West African market. 
+
+**Glocal** is an amalgam of works by artists from various areas around the world such as Cuba, Israel and Haiti. The works on view project restless compositions and employ use of vibrant colours that recall the colours, texture and rhythms attributed to West African batik design. Doing so, **Glocal** suggests a universal aesthetic common denominator.
+
+----
+
+Featimg: _mg_1107_.jpg
+
+----
+
+Featxzib: 0
+
+----
+
+Excerpt: 
+
+----
+
+Participants: Mirit Ben-Nun, Donatien Cisneros Valeriano, Maya Cohen Levi, Tal Mazliah
+
+----
+
+Catalogue: 
+
+- 
+  cover: catalogues/3-glocal.jpg
+  pdf: catalogues/glocal.pdf
+
+----
+
+Related: 
+
+----
+
+Relatedtext: 
+
+----
+
+Sortable: 
+
+----
+
+Colartist: artists
+
+----
+
+Colcatalogue: 

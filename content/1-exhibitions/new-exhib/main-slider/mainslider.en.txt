@@ -1,0 +1,32 @@
+Title: Main slider
+
+----
+
+Gallery: 
+
+- 
+  image: 544129_10151379091602982_966538639_n.jpg
+  title: deux meuf
+  caption: lalalala
+- 
+  image: >
+    1920px-joseph_mallord_william_turner_-_fishermen_at_sea_-_google_art_project.jpg
+  title: Sea paint
+  caption: |
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- 
+  image: >
+    14567580_1011945675581329_4649669978408649896_o.jpg
+  title: A book fair
+  caption: >
+    Some texte about some book fair nice
+    nice
+- 
+  image: 200px-akha_cropped_hires.jpg
+  title: "Titre de l'image"
+  caption: Le caption yuhuuu

@@ -1,0 +1,10 @@
+title: Modules
+
+files: false
+
+pages:
+  template:
+    - module.text
+    - module.gallery
+  options:
+    preview: parent

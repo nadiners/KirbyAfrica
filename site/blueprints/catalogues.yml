@@ -1,0 +1,43 @@
+title: Catalogues
+
+pages: false
+
+options: 
+  template: false  
+  status: false  
+  url: false
+  delete: false 
+
+icon : book
+
+fields:
+  title:
+    label: Catalogues
+    type:  text
+
+  text:
+    label: Text
+    type:  textarea
+
+  coverimg:
+    type: image
+
+  catalogues:
+    label: Catalogue
+    type: structure
+    style: table
+    fields:
+      title:
+        label: catalogue title
+        type: text
+      year:
+       type: number
+       default: 2016
+       label: Year
+      cover:
+        label: cover
+        type: image
+      pdf:
+        label: pdf
+        type: select
+        options: documents

@@ -1,0 +1,54 @@
+Reveal: 
+
+----
+
+Title: Between Art and Artefact
+
+----
+
+Date: January – September 2012
+
+----
+
+Aboutexhib: 
+
+Breaking away from the customary way of presenting African art, the first exhibition of the African Studies Gallery **Between Art and Artefacts** challenges the viewer's concept of art by re-assembling the artefacts according to the continent’s socio-political diversity, rather than geography. The exhibition focuses on indigenous African artefacts, with an emphasis on objects that do not conform to Western expectations of art and, moreover, African art. 
+
+The objects on view source from different parts of Africa including the Kuba kingdom, the Chokwe chiefdoms and Senufo, and are mainly utilitarian: textiles, currency tokens, traditional weapons, chairs, cups and combs. Displaying the artefacts in the context of a modern Western gallery, the African Studies Gallery seeks to entice the viewer to question the conventional boundaries of art.
+
+----
+
+Featimg: between-art-and-artefact15.jpg
+
+----
+
+Featxzib: 0
+
+----
+
+Excerpt: 
+
+----
+
+Participants: 
+
+----
+
+Catalogue: 
+
+- 
+  cover: >
+    catalogues/1-between-art-and-artefact.jpg
+  pdf: catalogues/between-art-and-artefact.pdf
+
+----
+
+Related: 
+
+----
+
+Relatedtext: 
+
+----
+
+Sortable: 

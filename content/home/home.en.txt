@@ -1,0 +1,45 @@
+Title: Home
+
+----
+
+Intro: The African Studies Gallery is a unique exhibition space, focusing on exhibiting and examining African art. The gallery is a not-for-profit organisation that aspires to examine African Art in a modern context.
+
+----
+
+Text: 
+
+----
+
+Sectiontitle: what's on
+
+----
+
+Headerimg: dotsdotssmall.jpg
+
+----
+
+Spaceimg: galleryspace.jpg
+
+----
+
+Seeallexhib: See all exhibitions
+
+----
+
+Seallevents: See all events
+
+----
+
+Seallcata: See all catalogues
+
+----
+
+Titleseeallexhib: past exhibitions
+
+----
+
+Titleseallevents: past events
+
+----
+
+Titleseallcata: catalogues

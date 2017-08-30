@@ -1,0 +1,24 @@
+title: Gallery module
+pages: false
+
+# This module may have images with alternative text
+files:
+  size: 12000000
+  type: image
+  sortable: true
+  fields:
+    alt:
+      label: Alternative text
+      type: text
+    caption:
+      label: Caption
+      type: textarea
+fields:
+  # The title is only used in the Panel for this module
+  title:
+    label: Module title
+    type: text
+
+  slideshow:
+    label: Slideshow
+    type: images

@@ -1,0 +1,51 @@
+
+/* -----  hebrew font --------------------------------------------------------- */
+
+@import url('https://fonts.googleapis.com/css?family=Alef');
+body{font-family: 'Alef', sans-serif;}
+    .en{font-family: "skolar-sans-latin", sans-serif;}
+.menu-item {font-size: 1.4em; }
+/*.logo{margin-right: 30px;}*/
+
+.heading {
+    margin: 0 auto;
+    /*text-align: center;*/
+}
+.heading h4{font-size: 16px;
+    letter-spacing: 0.04em;}
+.about-about{margin: 0 auto;}
+.logo {
+    left:  0;
+    right: 20px;}
+
+.dotTriangleRight {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    -ms-filter: fliph; /*IE*/
+    filter: fliph; /*IE*/
+}
+.flip img{
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    -ms-filter: fliph; /*IE*/
+    filter: fliph; /*IE*/
+}
+.read-more img{
+     -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    -ms-filter: fliph; /*IE*/
+    filter: fliph; /*IE*/
+}
+.see-all-arrow {
+     -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    -ms-filter: fliph; /*IE*/
+    filter: fliph; /*IE*/}

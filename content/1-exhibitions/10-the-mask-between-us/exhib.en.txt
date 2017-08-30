@@ -1,0 +1,53 @@
+Reveal: 
+
+----
+
+Title: The Mask Between Us
+
+----
+
+Date: September 2012 – March 2013
+
+----
+
+Aboutexhib: 
+
+Throughout history every culture has engaged, in one form or another, with masks. In the African continent the prevalence of masks and the spectacles that surround them is remarkable. Each mask presented in the exhibition carries its unique history and forms part in a larger cultural ethos. Viewers may notice no attempt to offer a comprehensive account of historical and cultural backgrounds. Instead, the African Studies Gallery aims to create an overall impression that depicts the power that masks hold, and to demonstrate how masks became a widespread tool in societal communication. 
+
+The exhibition creates a unique viewing experience by displaying the masks hung from the ceiling. The display allows viewers to wonder around as they watch and are being watched through the masks. Masks allow us to hide, but also to reveal unseen traits and to enact different identities. This experience is reminiscent of the ceremonial masquerades from whence these masks originate.
+
+----
+
+Featimg: ei0b0005.jpg
+
+----
+
+Featxzib: 0
+
+----
+
+Excerpt: 
+
+----
+
+Participants: 
+
+----
+
+Catalogue: 
+
+- 
+  cover: catalogues/2-masks.jpg
+  pdf: catalogues/masks.pdf
+
+----
+
+Related: 
+
+----
+
+Relatedtext: 
+
+----
+
+Sortable: 

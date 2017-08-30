@@ -1,0 +1,111 @@
+/* mainslider */
+
+table.mainslider {
+  width: 100%;
+}
+
+.mainslider th,
+.mainslider td {
+  vertical-align: top;
+  padding-right: 15px;
+     min-width: 150px;
+}
+
+.mainslider thead th {
+  text-align: left;
+  font-weight: normal;
+  color: #666;
+  padding: 0 0 10px 0;
+
+}
+
+.structure-entries .structure-entry {
+  width: 100%;
+  float: left;
+  margin: 1%;
+  min-height: 200px;
+}
+
+body.login form.form {
+    margin-top: 35px;
+    padding-top: 15%;
+    background: #fff url(../images/logo.svg) center top no-repeat;
+    background-size: 90% auto;
+}
+
+body.login form.form .btn-submit {
+  margin: 0 0 45px 0;
+}
+body.login form.form fieldset.buttons-centered {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+body.login .field-name-username input {
+    border: 1px solid #00ccff;
+}
+body.login .field-name-password input {
+    border: 1px solid #00ccff;
+}
+
+body.login .btn-rounded:focus, .btn-rounded:hover {
+    background: #004054;
+    color: #fff;
+}
+
+body.login .btn-rounded {
+    font-weight: 600;
+    border-radius: 1px;
+    border: 1px solid #40c67a;
+}
+
+body.login .btn-rounded:focus {
+    background: #6ed69b;
+    color: #fff;
+}
+
+
+.search-input {
+    background: #fff;
+}
+.search:after {
+    border-bottom-color: #fff;
+}
+
+.btn-rounded {
+    font-weight: 600;
+    border: 1px solid #40c67a;
+    transition: 0.3s linear;
+    color: #40c67a ;
+}
+
+.btn-rounded:hover {
+    background: #6ed69b;
+    color: #fff;
+}
+
+.input {border: 1px solid #dadada;}
+.input:focus {border: 1px solid #03A9F4;}
+
+.app {background-color: #f4f4f4;}
+
+.dashboard-box {border: 1px solid #ddd;}
+
+.btn-cancel {
+    border: 1px solid #FF5722;
+    color: #FF5722;
+}
+
+.btn-cancel:hover {
+    background: #FF5722;
+    color: #fff;
+}
+
+.markdownfield-wrapper {
+    border: 1px solid #ddd;
+}
+
+.sortable-layout {
+    background: #fff;
+    border: 1px solid #ddd;
+}
